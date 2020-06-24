@@ -1,0 +1,5 @@
+com\restservice\entity\Product.class
+com\restservice\Application.class
+com\restservice\repository\ProductRepository.class
+com\restservice\security\SecurityConfig.class
+com\restservice\controller\ProductController.class
